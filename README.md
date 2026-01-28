@@ -10,8 +10,8 @@ Project ini cocok untuk:
 ---
 
 ## 🌐 Demo Online
-🔗 **Live Demo (GitHub Pages):**  
-https://dzkypro.github.io/mathzyy
+🔗 **Live Demo (Vercel Pages):**  
+https://mathzyy.vercel.app
 
 ---
 
